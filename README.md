@@ -12,15 +12,15 @@
 
 ## Heroku Application
 
-[Abdallah-Basic-Auth](https://abdallah-basic-auth.herokuapp.com/)
+[Abdallah-Bearer-Auth](https://abdallah-bearer-auth.herokuapp.com/)
 
 ## GitHub Actions
 
-[GitHub Action](https://github.com/AbdallahAbuKhurma/basic--auth/actions)
+[GitHub Action](https://github.com/AbdallahAbuKhurma/bearer-auth/actions)
 
 ## Pull Requests
 
-[GitHub Pull Request](https://github.com/AbdallahAbuKhurma/basic--auth/pull/1)
+[GitHub Pull Request](https://github.com/AbdallahAbuKhurma/bearer-auth/pull/1)
 
 ## Setup
 
